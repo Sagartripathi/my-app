@@ -27,9 +27,6 @@ function App() {
     </div>
   </div>
 </nav>
-   
-   
-   
    </>
   );
 }
